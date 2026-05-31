@@ -1,4 +1,6 @@
-sentence-transformers
+﻿sentence-transformers
 openai
 gradio
 numpy
+pdfplumber
+pypdf

@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# 临时文件
+app_fixed.py
+app_new.py
+app_v2.py
+requirements_new.txt
+README_new.md
+
+# 对话历史
+history.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
